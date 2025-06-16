@@ -1,3 +1,4 @@
+# Ignore anything except files in /data/ subfolder
 !/data
 !.gitignore
 /*
