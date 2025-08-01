@@ -23,4 +23,3 @@ set CSVFOLDER=path/to/csvfileToCopyFolder
 # COMMENTAIRES
 
 Automatisation du projet non inclus dans cette documentation
-i
